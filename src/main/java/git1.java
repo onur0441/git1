@@ -4,5 +4,7 @@ public class git1 {
         int x =5;
         int y =7;
         System.out.println(x+y);
+        // version 2
+        System.out.println("version 2");
     }
 }
